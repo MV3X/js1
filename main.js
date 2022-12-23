@@ -1,4 +1,4 @@
-var imya = prompt('Введите свое имя')
+var imya = prompt('Введите свое имя ')
 console.log('Меня зовут ' + imya);
 
 var vozrast = prompt('Введите свой возраст')
