@@ -1,8 +1,8 @@
 var imya = prompt('Введите свое имя')
-console.log(imya);
+console.log('Меня зовут ' + imya);
 
 var vozrast = prompt('Введите свой возраст')
-console.log(vozrast);
+console.log('Мне ' + vozrast);
 
 var plus = prompt('5 + 5 =')
 console.log('Пример 1: ' + ' 5 + 5 = ' + (5 + 5) + ' Ваш ответ ' + plus);
